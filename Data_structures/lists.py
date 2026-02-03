@@ -18,4 +18,3 @@ print(numbers)
 #Looping through a list 
 for num in numbers:
     print(num) 
-#thanks
